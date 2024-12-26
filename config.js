@@ -1,9 +1,9 @@
 /*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
     ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
+    JEUDY ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ🔌🖥️
     
     ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
+     ＭＲ_JEUDY🗿⚽💸🎷
      
     ⭐ ＭＹ ＴＥＡＭ
      ＸＥＲＯ ＣＯＤＥＲＳ
@@ -26,15 +26,15 @@ function convertToBool(text, fault = 'true') {
 //--------------------------Mr Frank---------------------------------------
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID || "ENTER YOUR SUBZERO SESSION HERE",
+SESSION_ID: process.env.SESSION_ID || "rQAjXaoR#IQ2cDdzob-YiaBGfyCznbZI5h7FzZD2OL-15YDM4yPM",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //TRUE OR FALSE
 OWNER_NUMBER: process.env.OWNER_NUMBER || "18062212660",
-MODE: process.env.MODE || "public",  // PRIVATE OR PUBLIC
+MODE: process.env.MODE || "private",  // PRIVATE OR PUBLIC
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg", // DO NOT CHANGE
-ALIVE_MSG: process.env.ALIVE_MSG || "sᴜʙᴢᴇʀᴏ ᴀɪ ɪs ᴀʟɪᴠᴇ. ᴋᴇᴇᴘ sᴜᴘᴘᴏʀᴛɪɴɢ *Zᴇʀᴏ Cᴏᴅᴇʀs❄️*\n\n> ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ᴍʀ ꜰʀᴀɴᴋ",
+ALIVE_MSG: process.env.ALIVE_MSG || "sᴜʙᴢᴇʀᴏ ᴀɪ ɪs ᴀʟɪᴠᴇ. ᴋᴇᴇᴘ sᴜᴘᴘᴏʀᴛɪɴɢ *Zᴇʀᴏ Cᴏᴅᴇʀs❄️*\n\n> ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ᴍʀ JEUDY",
 ANTI_LINK: process.env.ANTI_LINK || "true",
 ANTI_BAD: process.env.ANTI_BAD || "true",
 PREFIX: process.env.PREFIX || ".", // .,!/?
@@ -46,4 +46,4 @@ BOT_NAME: process.env.BOT_NAME || "『 ＳＵＢＺＥＲＯ - ＭＤ 』",
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
 
-//--------------MADE BY MR FRANK 2024 DEC---------------->-
+//--------------MADE BY ASHLEY JEUDY 2024 DEC---------------->-
